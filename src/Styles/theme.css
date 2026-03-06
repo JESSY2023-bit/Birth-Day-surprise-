@@ -1,0 +1,40 @@
+:root{
+  --rose:#ff4da6;
+  --pink-light:#ffd6ec;
+  --dark:#0f0f0f;
+  --white:#ffffff;
+}
+
+.Navbar{
+    width: 100%;
+    background: var(--rose);
+    color: var(--white);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+
+body{
+  margin:0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg,var(--dark),#4a0e4e);
+  overflow-x:hidden;
+}
+
+button{
+  background: var(--rose);
+  color:white;
+  border:none;
+  padding:12px 25px;
+  border-radius:30px;
+  cursor:pointer;
+  font-size:16px;
+  transition:0.3s;
+}
+
+button:hover{
+  transform:scale(1.1);
+  box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
