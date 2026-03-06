@@ -1,21 +1,36 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎉 Happy Birthday Surprise App 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, interactive birthday website built with React and Vite, featuring:
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Romantic Dark Theme** - Elegant dark gradient background
+- **Falling Hearts Animation** - Continuous heart rain effect
+- **Interactive Photo Gallery** - Photos appear with cute animations
+- **Typewriter Birthday Message** - Letters appear one by one
+- **Surprise Page** - Confetti and special birthday wishes
+- **Responsive Design** - Works perfectly on mobile and desktop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Quick Start
 
-## React Compiler
+```bash
+# Install dependencies
+npm install
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Start development server
+npm run dev
 
-## Expanding the ESLint configuration
+# Build for production
+npm run build
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# jessy-s-projects
-start with portfolio
->>>>>>> 0e8eadb58f941515bd41fe207336750dc18dc793
+## 🎨 Technologies Used
+- React 19
+- Vite
+- Framer Motion (animations)
+- React Confetti
+- React Icons
+
+## 💝 About
+This special birthday app was created to celebrate someone's very special day with love, laughter, and lots of heartwarming surprises!
+
+Made with ❤️ for a princess 👸
